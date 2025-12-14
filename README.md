@@ -1,4 +1,4 @@
 # uso_curso
 Repositorio para hacer pruebas.
 
-Primera modificación. Modificación LOCAL.
+Conflictos eliminados manualmente, no aceptando ni el local ni el remoto.
