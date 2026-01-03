@@ -1,2 +1,4 @@
 Línea reemplazada en rama feature_2.
 Esta línea se añadió en la rama feature_2
+
+Otra modificación en rama feature_2 local.
