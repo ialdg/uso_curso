@@ -1,0 +1,4 @@
+Nuevo archivo creado en la rama
+feature_1
+
+Este archivo ha sido modificado en el repositorio local.
